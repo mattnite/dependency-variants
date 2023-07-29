@@ -1,0 +1,10 @@
+.{
+    .name = "dependency-variants",
+    .version = "0.0.0",
+    .dependencies = .{
+        .echo = .{
+            .url = "https://github.com/mattnite/echo/archive/09f393f099f099fe3c05243191bb18794ad6452d.tar.gz",
+            .hash = "1220bc24e0109819e8c6986df83c0854a10dbd68833438c0ad64d7838d21a953113d",
+        },
+    },
+}
